@@ -31,6 +31,9 @@
   "name": "iPhone X/Bars/Navigation/Navigation Bar (Large Title) - 1 Action w/Search",
   "nameIsFixed": false,
   "overrides": {
+    "89857C6B-EB6C-43C1-BE55-07B3CCF5328A": {
+      "E4BAA223-5D3E-4137-BE6A-31E9F4C6A86E": "Back"
+    },
     "958F9F00-5A3F-4909-8422-F2D83B92021C": "My Movies"
   },
   "resizingConstraint": 63,
